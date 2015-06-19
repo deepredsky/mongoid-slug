@@ -10,7 +10,7 @@ require 'awesome_print'
 require 'active_support'
 require 'active_support/deprecation'
 require 'mongoid'
-require 'mongoid/paranoia'
+#require 'mongoid/paranoia'
 require 'rspec/its'
 
 require File.expand_path '../../lib/mongoid/slug', __FILE__
